@@ -17,7 +17,7 @@ A simple, easy and efficient way to add code snippets to your site. Manage your 
 
 = Usage =
 
-Choose any public snippet from your (dashboard)[http://generatewp.com/dashboard/] or from the public (snippet library)[http://generatewp.com/snippet/].
+Choose any public snippet from your [dashboard](http://generatewp.com/dashboard/) or from the public [snippet library](http://generatewp.com/snippet/).
 
 Just copy the snippet URL and paste it to your post:
 
