@@ -11,7 +11,7 @@ Add GenerateWP to the WordPress oEmbed providers
 
 == Description ==
 
-The plugin enables site owners to easily embed code snippets from [GenerateWP.com](http://generatewp.com) using nothing but a URL
+The plugin enables site owners to easily embed code snippets from [GenerateWP.com](http://generatewp.com) using nothing but a URL.
 
 A simple, easy and efficient way to add code snippets to your site. Manage your own code snippets in [GenerateWP.com](http://generatewp.com) and embed them to your site.
 
@@ -23,7 +23,9 @@ Just copy the snippet URL and paste it to your post:
 
 `http://generatewp.com/snippet/0md9rdy/`
 
-That's it! The code will be embedded to your post. 
+That's it! The code will be embedded to your post.
+
+https://www.youtube.com/watch?v=HUyRhdeaZ_Y
 
 == Installation ==
 
