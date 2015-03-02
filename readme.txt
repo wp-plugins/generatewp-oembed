@@ -1,11 +1,11 @@
 === GenerateWP oEmbed ===
-Author URI: http://GenerateWP.com
 Author: Rami Yushuvaev
+Author URI: http://GenerateWP.com/
 Contributors: ramiy
 Tags: GenerateWP, oEmbed, code, snippets, code snippets, development
 Requires at least: 3.5
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.1
 
 Add GenerateWP to the WordPress oEmbed providers
 
@@ -32,8 +32,8 @@ https://www.youtube.com/watch?v=HUyRhdeaZ_Y
 = Installation =
 1. In your WordPress Dashboard go to "Plugins" -> "Add Plugin".
 2. Search for "GenerateWP oEmbed".
-3. Install GenerateWP plugin by pressing the plugin "Install" button.
-4. Activate the GenerateWP plugin.
+3. Install the plugin by pressing the "Install" button.
+4. Activate the plugin by pressing the "Activate" button.
 
 = Updating =
 * Use WordPress automatic updates to upgrade to the latest version. Ensure to backup your site just in case.
@@ -53,6 +53,10 @@ https://www.youtube.com/watch?v=HUyRhdeaZ_Y
 2. Pasting snippet URL to the visual editor.
 
 == Changelog ==
+
+= 1.1 =
+* Add i18n support.
+* Add hebrew (he_IL) traslation.
 
 = 1.0 =
 * Initial release
