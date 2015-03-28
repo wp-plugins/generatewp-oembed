@@ -5,25 +5,18 @@ Contributors: ramiy
 Tags: GenerateWP, oEmbed, code, snippets, code snippets, development
 Requires at least: 3.5
 Tested up to: 4.1.1
-Stable tag: 1.1
+Stable tag: 1.2
+License: GPL2+
 
 Add GenerateWP to the WordPress oEmbed providers
 
 == Description ==
 
-The plugin enables site owners to easily embed code snippets from [GenerateWP.com](http://generatewp.com) using nothing but a URL.
+[GenerateWP](http://generatewp.com) provides user-friendly tools for developers to create advanced applications built on top of WordPress. With simmple code generators WordPress developers can create custom and high quality code for using the latest WordPress coding standards and API's.
 
-A simple, easy and efficient way to add code snippets to your site. Manage your own code snippets in [GenerateWP.com](http://generatewp.com) and embed them to your site.
+Using this plugin you can showcase your code snippets from GenerateWP in your WordPress site, using nothing but the URL.
 
-= Usage =
-
-Choose any public snippet from your [dashboard](http://generatewp.com/dashboard/) or from the public [snippet library](http://generatewp.com/snippet/).
-
-Just copy the snippet URL and paste it to your post:
-
-`http://generatewp.com/snippet/0md9rdy/`
-
-That's it! The code will be embedded to your post.
+Choose any public snippet from your [dashboard](http://generatewp.com/dashboard/) or from the public [snippet library](http://generatewp.com/snippet/). Copy the snippet URL and paste it into your text editor. Then simply click over to the visual editor to confirm that it loads properly.
 
 https://www.youtube.com/watch?v=HUyRhdeaZ_Y
 
@@ -54,9 +47,14 @@ https://www.youtube.com/watch?v=HUyRhdeaZ_Y
 
 == Changelog ==
 
-= 1.1 =
+= 1.2 (2015-03-28) =
+* Prevent direct access to php files.
+* Prevent direct access to directories.
+
+= 1.1 (2015-03-02) =
 * Add i18n support.
 * Add hebrew (he_IL) traslation.
 
-= 1.0 =
-* Initial release
+= 1.0 (2015-02-20) =
+* Initial release.
+* Register oEmbed provider.
