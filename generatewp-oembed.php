@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: GenerateWP oEmbed
-Description: Adds oEmbed support for GenerateWP.com
-Version: 1.2
-Author: Rami Yushuvaev
-Author URI: http://GenerateWP.com/
+Plugin URI:  https://wordpress.org/plugins/generatewp-oembed/
+Description: Embed code snippets from GenerateWP.com into your WordPress site
+Version:     1.2
+Author:      Rami Yushuvaev
+Author URI:  http://GenerateWP.com/
 Text Domain: generatewp-oembed
 Domain Path: /languages
-License: GPL2+
 */
 
 
@@ -22,7 +22,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 
 /*
- * GenerateWP oEmbed
+ * Register oEmbed Provider
  */
 function generatewp_oembed_provider() {
 

@@ -1,20 +1,19 @@
 === GenerateWP oEmbed ===
-Author: Rami Yushuvaev
-Author URI: http://GenerateWP.com/
 Contributors: ramiy
 Tags: GenerateWP, oEmbed, code, snippets, code snippets, development
 Requires at least: 3.5
-Tested up to: 4.1.1
+Tested up to: 4.2
 Stable tag: 1.2
-License: GPL2+
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add GenerateWP to the WordPress oEmbed providers
+Embed code snippets from GenerateWP.com into your WordPress site
 
 == Description ==
 
-[GenerateWP](http://generatewp.com) provides user-friendly tools for developers to create advanced applications built on top of WordPress. With simmple code generators WordPress developers can create custom and high quality code for using the latest WordPress coding standards and API's.
+[GenerateWP](http://generatewp.com) provides user-friendly tools for developers to create advanced applications built on top of WordPress. With simmple code generators, developers can create custom and high quality code using the latest WordPress coding standards and API's.
 
-Using this plugin you can showcase your code snippets from GenerateWP in your WordPress site, using nothing but the URL.
+Using this plugin you can showcase your code snippets from [GenerateWP.com](http://generatewp.com) in your WordPress site, using nothing but the URL.
 
 Choose any public snippet from your [dashboard](http://generatewp.com/dashboard/) or from the public [snippet library](http://generatewp.com/snippet/). Copy the snippet URL and paste it into your text editor. Then simply click over to the visual editor to confirm that it loads properly.
 
